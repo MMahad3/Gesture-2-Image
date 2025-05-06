@@ -48,7 +48,7 @@ While text-to-image generation is widely researched, **gesture-based control for
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/Gesture-2-Image
+git clone https://github.com/MMahad3/Gesture-2-Image
 cd Gesture-2-Image
 
 # Set up virtual environment
